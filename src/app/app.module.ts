@@ -22,7 +22,6 @@ const appRoutes:Routes = [
     AppComponent,
     UserComponent,
     AboutusComponent,
-    CoursesComponent,
     CourseComponent
   ],
   imports: [
