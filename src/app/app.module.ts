@@ -9,7 +9,6 @@ import {} from './service/todo.service';
 import { TodoService } from './services/todo.service';
 import { HttpModule } from '@angular/http';
 import { RouterModule, Routes } from '@angular/router';
-import { CoursesComponent } from './Couses.component';
 import { CourseComponent } from './course/course.component';
 
 const appRoutes:Routes = [
